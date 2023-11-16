@@ -435,7 +435,6 @@
   .fig-wrapper{
     display: block;
     text-align: center;
-    margin: auto;
   }
   figure.champ {
     display: inline-block;
