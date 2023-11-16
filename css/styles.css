@@ -430,3 +430,24 @@
   main{
    padding: 16px 16px;   
   }
+
+  /*styles for home page figure*/
+  .fig-wrapper{
+    display: block;
+    text-align: center;
+    margin: auto;
+  }
+  figure.champ {
+    display: inline-block;
+    text-align: initial;
+    vertical-align: top;
+    position: relative;
+    margin: 0.5em;
+    font-size: 0.8em;
+    overflow: hidden;
+}
+figure.champ img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
