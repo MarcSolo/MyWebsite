@@ -437,13 +437,8 @@
     text-align: center;
   }
   figure.champ {
-    display: inline-block;
-    text-align: initial;
-    vertical-align: top;
-    position: relative;
-    margin: 0.5em;
-    font-size: 0.8em;
-    overflow: hidden;
+    margin: 0;
+    font-size: 1em;
 }
 figure.champ img{
     display: block;
